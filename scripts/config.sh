@@ -1,0 +1,5 @@
+app_name="react-alicante-demo-1"
+docker_registry="europe-west8-docker.pkg.dev/rollingsoftware/react-alicante-demo-1"
+docker_host="europe-west8-docker.pkg.dev"
+region="europe-west8"
+project="rollingsoftware"
